@@ -1,1 +1,1 @@
-This is my first file which i work for git and gitHub
+This is my first file which I work for Git and GitHub. Everyone should learn Git Hub. 
